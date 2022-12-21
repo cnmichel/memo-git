@@ -5,3 +5,12 @@ une histoire incroyable commit screenshot
 
 commande pour revenir sur une étape antérieure :
 ```git checkout <ref commit>```
+
+commande pour revenir sur la dernière version de la branche actuelle :
+```git checkout <branche>```
+
+commande pour reset le HEAD de la branche sur un commit précis :
+- avec les modifications actuelles
+```git reset --soft <ref commit>```
+- sans les modifications actuelles
+```git reset --hard <ref commit>```
