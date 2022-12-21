@@ -33,7 +33,7 @@ merge conflict resolve with IDE screenshot :
 ajout d'une clé d'authentification ssh dans github :
 >```git remote -v```
 
->```origin  git@github.com:cnmichel/memo-git.git (fetch)``` </br>
+>```origin git@github.com:cnmichel/memo-git.git (fetch)``` </br>
 >```origin git@github.com:cnmichel/memo-git.git (push)```
 
 >![alt text][screenshot-sshkey]
