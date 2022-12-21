@@ -30,8 +30,17 @@ git workflow screenshot :
 merge conflict resolve with IDE screenshot :
 >![alt text][screenshot-conflict]
 
+ajout d'une clé d'authentification ssh dans github :
+>```git remote -v```
+>```
+origin  git@github.com:cnmichel/memo-git.git (fetch)
+origin  git@github.com:cnmichel/memo-git.git (push)
+```
+>![alt text][screenshot-sshkey]
+
 [screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
 [screenshot-tag]: https://github.com/cnmichel/memo-git/blob/main/screen_tag.png
 [screenshot-profile]: https://github.com/cnmichel/memo-git/blob/main/screenshot_profile.png
 [screenshot-workflow]: https://github.com/cnmichel/memo-git/blob/main/screenshot_workflow.png
 [screenshot-conflict]: https://github.com/cnmichel/memo-git/blob/main/screenshot_conflict.png
+[screenshot-sshkey]: https://github.com/cnmichel/memo-git/blob/main/screenshot_ssh_key.png
