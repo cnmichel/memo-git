@@ -32,10 +32,12 @@ merge conflict resolve with IDE screenshot :
 
 ajout d'une clé d'authentification ssh dans github :
 >```git remote -v```
+
 >```
 origin  git@github.com:cnmichel/memo-git.git (fetch)
 origin  git@github.com:cnmichel/memo-git.git (push)
 ```
+
 >![alt text][screenshot-sshkey]
 
 [screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
