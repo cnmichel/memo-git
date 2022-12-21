@@ -4,13 +4,18 @@ une histoire incroyable commit screenshot
 [screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
 
 commande pour revenir sur une étape antérieure :
-```git checkout <ref commit>```
+
+>```git checkout <ref commit>```
 
 commande pour revenir sur la dernière version de la branche actuelle :
-```git checkout <branche>```
+
+>```git checkout <branche>```
 
 commande pour reset le HEAD de la branche sur un commit précis :
 - avec les modifications actuelles
-```git reset --soft <ref commit>```
+
+>```git reset --soft <ref commit>```
+
 - sans les modifications actuelles
-```git reset --hard <ref commit>```
+
+>```git reset --hard <ref commit>```
