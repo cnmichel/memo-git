@@ -1,7 +1,5 @@
-une histoire incroyable commit screenshot
+une histoire incroyable commit screenshot :
 >![alt text][screenshot-commit]
-
-[screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
 
 commande pour revenir sur une étape antérieure :
 
@@ -19,3 +17,9 @@ commande pour reset le HEAD de la branche sur un commit précis :
 - sans les modifications actuelles
 
 >```git reset --hard <ref commit>```
+
+V1.0 tag screenshot :
+>![alt text][screenshot-tag]
+
+[screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
+[screenshot-tag]: https://github.com/cnmichel/memo-git/blob/main/screen_tag.png
