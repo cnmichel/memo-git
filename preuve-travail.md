@@ -27,7 +27,11 @@ ajout d'une carte de visite dans le profil github :
 git workflow screenshot :
 >![alt text][screenshot-workflow]
 
+merge conflict resolve with IDE screenshot :
+>![alt text][screenshot-conflict]
+
 [screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
 [screenshot-tag]: https://github.com/cnmichel/memo-git/blob/main/screen_tag.png
 [screenshot-profile]: https://github.com/cnmichel/memo-git/blob/main/screenshot_profile.png
 [screenshot-workflow]: https://github.com/cnmichel/memo-git/blob/main/screenshot_workflow.png
+[screenshot-conflict]: https://github.com/cnmichel/memo-git/blob/main/screenshot_conflict.png
