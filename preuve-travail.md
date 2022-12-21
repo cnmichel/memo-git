@@ -24,6 +24,10 @@ V1.0 tag screenshot :
 ajout d'une carte de visite dans le profil github :
 >![alt text][screenshot-profile]
 
+git workflow screenshot :
+>![alt text][screenshot-workflow]
+
 [screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
 [screenshot-tag]: https://github.com/cnmichel/memo-git/blob/main/screen_tag.png
 [screenshot-profile]: https://github.com/cnmichel/memo-git/blob/main/screenshot_profile.png
+[screenshot-workflow]: https://github.com/cnmichel/memo-git/blob/main/screenshot_workflow.png
