@@ -21,5 +21,9 @@ commande pour reset le HEAD de la branche sur un commit précis :
 V1.0 tag screenshot :
 >![alt text][screenshot-tag]
 
+ajout d'une carte de visite dans le profil github :
+>![alt text][screenshot-profile]
+
 [screenshot-commit]: https://github.com/cnmichel/memo-git/blob/main/screen_git.png
 [screenshot-tag]: https://github.com/cnmichel/memo-git/blob/main/screen_tag.png
+[screenshot-profile]: https://github.com/cnmichel/memo-git/blob/main/screenshot_profile.png
